@@ -2,11 +2,9 @@
   <html>
     <head>
       <meta charset= "utf-8">
-      <title>Head Section Demo</title>
+      <title>Metadata Types</title>
     </head>
       <body>
-
-    <p>This is a web page.</p>
 
       </body>
     </html>
