@@ -15,4 +15,6 @@
       </body>
 
       <img src="https://bit.do/astate">
+
+      <a> href="http://www.kottke.org" target="_blank"> A link to my favorite website </a>
       </html>
