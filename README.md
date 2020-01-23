@@ -10,8 +10,7 @@
 
     <p>Dogs are silly</p>
 
-    <p>Dogs     are        
-         silly.</p>
+    <!--This is a test comment-->
 
       </body>
     </html>
