@@ -2,15 +2,11 @@
   <html>
     <head>
       <meta charset= "utf-8">
-      <title>module 2 scratch pad</title>
+      <title>Head Section Demo</title>
     </head>
       <body>
 
     <p>This is a web page.</p>
-
-    <p>Dogs are silly</p>
-
-    <!--This is a test comment-->
 
       </body>
     </html>
